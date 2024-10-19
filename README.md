@@ -1,4 +1,5 @@
-![images](https://github.com/user-attachments/assets/9044abef-7abc-4ed2-bcfb-aa2215e09619)
+
+<h1 align="center">![JavaScript](https://github.com/user-attachments/assets/dccfa67a-9919-4713-b610-25c2b948d100)</h1>
 <h1 align="center">Hi 👋, I'm Abhishek Gharat</h1>
 <h3 align="center">A passionate about frontend development.</h3>
 
