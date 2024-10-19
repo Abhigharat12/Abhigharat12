@@ -1,8 +1,11 @@
 
 👋 Hi, I’m @Abhigharat12 (Abhishek Gharat)
-![abhishek](https://github.com/user-attachments/assets/c3ca96ce-371a-4b86-b875-d0d02ab18494)
 👀 I’m interested in technology, programming, and exploring innovative solutions.
 🌱 I’m currently learning various aspects of engineering, with a focus on notably in fields such as Artificial Intelligence and Big Data Analytics.
+
+![my-code](https://github.com/user-attachments/assets/732946ef-0119-4196-8b4f-c298d1403cc4)
+
+
 💞️ I’m looking to collaborate on exciting projects related to evolving technologies.
 📫 How to reach me: Feel free to reach out to me via 
 email - mailabhishekgharat@gmail.com
