@@ -1,7 +1,7 @@
 ![JavaScript](https://github.com/user-attachments/assets/698608ff-0eea-4c64-8140-1d0e3dd41ebd)
 
 <h1 align="center">Hi 👋, I'm Abhishek Gharat</h1>
-<h3 align="center">A passionate about frontend development.</h3>
+<h3 align="center">Passionate about frontend development.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigharat&label=Profile%20views&color=0e75b6&style=flat" alt="abhigharat" /> </p>
