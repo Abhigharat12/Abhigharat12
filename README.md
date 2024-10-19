@@ -16,7 +16,7 @@
 - 📫 How to reach me **mailabhishekgharat@gmail.com**
 
 - 📄 Know about my experiences [I’m interested in technology, programming, and exploring innovative solutions.](I’m interested in technology, programming, and exploring innovative solutions.)
-![my-code](https://github.com/user-attachments/assets/732946ef-0119-4196-8b4f-c298d1403cc4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhi_gharat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi_gharat_" height="30" width="40" /></a>
