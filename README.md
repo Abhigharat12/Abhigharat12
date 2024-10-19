@@ -34,7 +34,8 @@ original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sc
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigharat12&" alt="abhigharat12" /></p>
 
-![images](https://github.com/user-attachments/assets/21cdaad2-570f-4c83-8b47-10f79a89f2d9)
+![download](https://github.com/user-attachments/assets/002a2fa7-583e-46df-80a7-28d6b70fa162)
+
 
 
 
