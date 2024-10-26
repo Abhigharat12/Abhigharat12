@@ -14,7 +14,8 @@
 
 - 💬 Ask me about **HTML, CSS, Java.**
 
-- 📫 How to reach me **mailabhishekgharat@gmail.com**
+- 📫 How to reach me: <a href="mailto:mailabhishekgharat@gmail.com">mailabhishekgharat@gmail.com</a>
+
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhi_gharat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi_gharat_" height="30" width="40" /></a>
@@ -23,6 +24,16 @@
 
 - 📄 Know about my experiences [I’m interested in technology, programming, and exploring innovative solutions.](I’m interested in technology, programming, and exploring innovative solutions.)
 - ![my-code](https://github.com/user-attachments/assets/732946ef-0119-4196-8b4f-c298d1403cc4)
+
+<p align="left">
+    <img src="https://img.freepik.com/free-vector/happy-diwali-indian-cultural-festival-background-with-diya_375742722.htm" alt="Happy Diwali" width="300" />
+</p>
+
+<p align="right">
+    <img src="https://img.freepik.com/free-vector/happy-diwali-indian-cultural-festival-background-with-diya_375742722.htm" alt="Happy Diwali" width="300" />
+</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
