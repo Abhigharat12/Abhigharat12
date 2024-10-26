@@ -22,18 +22,20 @@
 <a href="https://linkedin.com/in/abhishek-gharat-784201275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-gharat-784201275" height="30" width="40" /></a>
 </p>
 
-- 📄 Know about my experiences [I’m interested in technology, programming, and exploring innovative solutions.](I’m interested in technology, programming, and exploring innovative solutions.)
+- 📄 Know about my experiences [I’m interested in technology, programming, and exploring innovative solutions.](I’m interested in technology, programming, and exploring innovative solutions.]
+
+<div align="center">
+    <img src="https://img.freepik.com/free-vector/decorative-oil-lamp-diwali-festival-celebration-card-background_1035-20088.jpg" alt="Diwali Lamp" width="300" style="margin-right: 20px;" />
+    <img src="https://img.freepik.com/free-vector/decorative-oil-lamp-diwali-festival-celebration-card-background_1035-20088.jpg" alt="Diwali Lamp" width="300" />
+</div>
+
+
+
+
+
+
+
 - ![my-code](https://github.com/user-attachments/assets/732946ef-0119-4196-8b4f-c298d1403cc4)
-
-<p align="left">
-    <img src="https://img.freepik.com/free-vector/happy-diwali-indian-cultural-festival-background-with-diya_375742722.htm" alt="Happy Diwali" width="300" />
-</p>
-
-<p align="right">
-    <img src="https://img.freepik.com/free-vector/happy-diwali-indian-cultural-festival-background-with-diya_375742722.htm" alt="Happy Diwali" width="300" />
-</p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
