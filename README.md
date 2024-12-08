@@ -24,10 +24,7 @@
 
 - 📄 Know about my experiences [I’m interested in technology, programming, and exploring innovative solutions.](I’m interested in technology, programming, and exploring innovative solutions.]
 
-<div align="center">
-    <img src="https://img.freepik.com/free-vector/decorative-oil-lamp-diwali-festival-celebration-card-background_1035-20088.jpg" alt="Diwali Lamp" width="300" style="margin-right: 20px;" />
-    <img src="https://img.freepik.com/free-vector/decorative-oil-lamp-diwali-festival-celebration-card-background_1035-20088.jpg" alt="Diwali Lamp" width="300" />
-</div>
+
 
 
 
