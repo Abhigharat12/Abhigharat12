@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/abhi_gharat_" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_gharat_?logo=twitter&style=for-the-badge" alt="abhi_gharat_" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS.**
+- 🌱 I’m currently learning **ReactJs, ExpressJS.**
 
 - 👨‍💻 All of my projects are available at [github.com/Abhigharat12](github.com/Abhigharat12)
 
-- 💬 Ask me about **HTML, CSS, Java.**
+- 💬 Ask me about **HTML, CSS, Java,Javascript.**
 
 - 📫 How to reach me: <a href="mailto:mailabhishekgharat@gmail.com">mailabhishekgharat@gmail.com</a>
 
